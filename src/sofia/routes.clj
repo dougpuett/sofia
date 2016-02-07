@@ -8,10 +8,11 @@
         [ring.adapter.jetty :only (run-jetty)]
         [ring.util.response :as response]
         [ring.middleware.params :refer :all]
-        ; [taoensso.carmine :as car :refer (wcar)]
-        ; [sofia.password_admin :refer :all]
-        ; [cemerick.friend :as friend] (cemerick.friend [workflows :as workflows] [credentials :as creds]))
+        ;; [taoensso.carmine :as car :refer (wcar)]
+        ;; [sofia.password_admin :refer :all]
+        ;; [cemerick.friend :as friend] (cemerick.friend [workflows :as workflows] [credentials :as creds]))
     )
+)
 
 ;; =================
 ;; FILE DESCRIPTION:
