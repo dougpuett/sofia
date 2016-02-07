@@ -8,6 +8,7 @@
                  [cheshire "5.3.1"]
                  [compojure "1.2.0"]]
   :plugins [[lein-ring "0.8.11"]]
-  :main ^:skip-aot sofia.core
+  :ring {:handler sofia.routes/router}
+  :main ^:skip-aot sofia.routes
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
