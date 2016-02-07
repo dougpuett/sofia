@@ -1,0 +1,573 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"schleich",
+				"schleich-filtered"
+			],
+			[
+				"us",
+				"us-west-2"
+			],
+			[
+				"feed",
+				"feedparser-clj"
+			],
+			[
+				"wander_",
+				"wanderer_raw_array"
+			],
+			[
+				"textare",
+				"textarea_div"
+			],
+			[
+				"get",
+				"getResponseText"
+			],
+			[
+				"beowulf_",
+				"beowulf_raw_array"
+			],
+			[
+				"full",
+				"full_input"
+			],
+			[
+				"site_",
+				"site_header"
+			],
+			[
+				"micr",
+				"microblog_post_ctrl"
+			],
+			[
+				"cred",
+				"credential-fn"
+			],
+			[
+				"back",
+				"background-style"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					"Ignore Warnings"
+				],
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					"Run - Ignore Warnings"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "package controll",
+		"selected_items":
+		[
+			[
+				"package controll",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: package",
+				"Package Control: Install Package"
+			],
+			[
+				"IJU",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"IJULI",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"Ijulia",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"Ij",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"IJuli",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"Open I",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"Open",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/doug/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/doug/Desktop/logAnalysis.hs",
+		"/Users/doug/Desktop/Personal/untitled.txt",
+		"/Users/doug/Desktop/Clojure/craigs/src/craigs/core.clj",
+		"/Users/doug/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/doug/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/doug/Desktop/Personal/fluentd_notes",
+		"/Users/doug/Desktop/sample.log",
+		"/Users/doug/Desktop/error.log",
+		"/Users/doug/Desktop/Log.hs",
+		"/Users/doug/Desktop/hw-01.hs",
+		"/Users/doug/Downloads/201507120657_0 2",
+		"/Users/doug/Downloads/201507120618_0",
+		"/Users/doug/Desktop/Log.o",
+		"/Users/doug/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/doug/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/doug/Desktop/Clojure/craigs/project.clj",
+		"/Users/doug/Desktop/test_html.html",
+		"/Users/doug/craigs.txt",
+		"/Users/doug/Desktop/webapp/resources/public/js/ff_season.js",
+		"/Users/doug/Desktop/Clojure/playoffs/src/playoffs/full_season.clj",
+		"/Users/doug/Desktop/Clojure/playoffs/src/playoffs/core.clj",
+		"/Users/doug/Desktop/Clojure/ff/src/ff/core.clj",
+		"/Users/doug/Desktop/webapp/src/views/html_helpers.clj",
+		"/Users/doug/Desktop/webapp/resources/public/js/content_text.js",
+		"/Users/doug/Desktop/webapp/src/views/beowulf.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/time.clj",
+		"/Users/doug/Desktop/webapp/target/stale/extract-native.dependencies",
+		"/Users/doug/Desktop/webapp/src/webapp/controllers.clj",
+		"/Users/doug/Desktop/webapp/src/views/colors.clj",
+		"/Users/doug/Desktop/webapp/src/views/html_post.clj",
+		"/Users/doug/Desktop/webapp/src/data/posts.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/routes.clj",
+		"/Users/doug/Desktop/webapp/project.clj",
+		"/Users/doug/Desktop/webapp/src/data/beowulf_raw.clj",
+		"/Users/doug/Desktop/webapp/src/data/blog_posts.clj",
+		"/Users/doug/Desktop/webapp/src-cljs/webinar/core.cljs",
+		"/Users/doug/Desktop/webapp/resources/public/texts/beowulf.txt",
+		"/Users/doug/Desktop/webapp/resources/public/texts/wanderer.txt",
+		"/Users/doug/Desktop/webapp/src/data/ff_data.clj",
+		"/Users/doug/Desktop/webapp/src-cljs/content_text/content_text.cljs",
+		"/Users/doug/Desktop/webapp/src/apis/posts.clj",
+		"/Users/doug/Desktop/webapp/resources/core.async-webinar/index.html",
+		"/Users/doug/Desktop/webapp/core.async-webinar/index.html",
+		"/Users/doug/Desktop/webapp/src/apis/blog_posts.clj",
+		"/Users/doug/Desktop/webapp/resources/blog/2015/02/09/.untitled",
+		"/Users/doug/Desktop/webapp/resources/blog/2015/02/08/The_Best_Worst_Thing",
+		"/Users/doug/Desktop/webapp/src-cljs/content_text/content_text_scroll.cljs",
+		"/Users/doug/Desktop/webapp/src/views/color_palette.clj",
+		"/Users/doug/Desktop/untitled.txt",
+		"/Users/doug/Desktop/webapp/resources/blog/2015/02/07/First_Post",
+		"/Users/doug/Desktop/webapp/resources/blog/2015/02/07/Second_Post",
+		"/Users/doug/Desktop/webapp/resources/blog/2015/02/08/First_Post",
+		"/Users/doug/Desktop/webapp/resources/blog/2015/02/08/Second_Post",
+		"/Users/doug/Desktop/webapp/resources/blog/2012-02-03-First_Post",
+		"/Users/doug/Desktop/webapp/src/webapp/logging.clj",
+		"/Users/doug/Desktop/webapp/resources/blog/2012-02-03-Second_Post",
+		"/Users/doug/Desktop/webapp/resources/blog/2015-02-03-Second_Post",
+		"/Users/doug/Desktop/webapp/resources/blog/2015-02-03-First_Post",
+		"/Users/doug/Desktop/webapp/src/views/blog_views.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/password_admin.clj",
+		"/Users/doug/Desktop/webapp/src/views/blog_entry.clj",
+		"/Users/doug/Desktop/webapp/src/views/blog_index.clj",
+		"/Users/doug/Desktop/webapp/src/apis/ff_data.clj",
+		"/Users/doug/Desktop/webapp/resources/blog/blog_post.txt",
+		"/Users/doug/Desktop/webapp/src/apis/beowulf_raw.clj",
+		"/Users/doug/Desktop/webapp/src/apis/microblog_home.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/microblog_home.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/site_stats.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/ff_home.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/beowulf_raw.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/beowulf.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/core.clj",
+		"/Users/doug/Desktop/webapp/target/cljsbuild-compiler-0/goog/base.js",
+		"/Users/doug/Desktop/Clojure/async-tut1/src/async_tut1/core.cljs",
+		"/Users/doug/Desktop/webapp/src-cljs/ff_season/ff_season.cljs",
+		"/Users/doug/Desktop/webapp/resources/beowulf.json",
+		"/Users/doug/Desktop/Clojure/RomanNumerals.clj",
+		"/Users/doug/Desktop/webapp/src-cljs/ff_season/content_text.cljs",
+		"/Users/doug/Desktop/webapp/src/webapp/html_post.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/html_helpers.clj",
+		"/Users/doug/Dropbox2/Dropbox/beowulf_eng.xml",
+		"/Users/doug/Desktop/webapp/resources/private/colors_rgba.txt",
+		"/Users/doug/Desktop/webapp/resources/private/colors_hex.txt",
+		"/Users/doug/Desktop/webapp/src/webapp/color_palette.clj",
+		"/Users/doug/Desktop/webapp/src-cljs/ff_season.cljs",
+		"/Users/doug/Desktop/webapp/resources/public/js/simple.js",
+		"/Users/doug/Desktop/webapp/src-cljs/d3test.cljs",
+		"/Users/doug/Desktop/webapp/resources/fullmap.json",
+		"/Users/doug/Desktop/webapp/src-cljs/extra.cljs",
+		"/Users/doug/Desktop/webapp/src/webapp/d3test.cljs",
+		"/Users/doug/Desktop/webapp/resources/d3.js",
+		"/Users/doug/Desktop/webapp/src/webapp/d3test_home.clj",
+		"/Users/doug/Desktop/webapp/src/webapp/d3test.cljs.clj",
+		"/Users/doug/Desktop/webapp/webapp/src/webapp/ff_home.clj",
+		"/Users/doug/Desktop/webapp/webapp/src/webapp/html_helpers.clj",
+		"/Users/doug/Desktop/webapp/webapp/src/webapp/html_post.clj",
+		"/Users/doug/Desktop/webapp/webapp/src/webapp/microblog_home.clj",
+		"/Users/doug/Desktop/webapp/webapp/src/webapp/logging.clj",
+		"/Users/doug/Desktop/webapp/webapp/src/webapp/site_stats.clj",
+		"/Users/doug/Desktop/webapp/webapp/resources/logs/logs.txt",
+		"/Users/doug/Desktop/webapp/webapp/project.clj",
+		"/Users/doug/Desktop/webapp/webapp/src/webapp/password_admin.clj",
+		"/Users/doug/Desktop/webapp/webapp/src/webapp/controllers.clj",
+		"/Users/doug/Desktop/webapp/webapp/src/webapp/core.clj",
+		"/Users/doug/Dropbox2/Dropbox/time.clj",
+		"/Users/doug/Desktop/Clojure/ff.clj",
+		"/Users/doug/Desktop/Clojure/experiments.clj",
+		"/Users/doug/Desktop/Clojure/ff/project.clj",
+		"/Users/doug/Dropbox2/Dropbox/playoffs_1_odds.txt",
+		"/Users/doug/Desktop/Clojure/ff_2.clj",
+		"/Users/doug/Downloads/simple_plot.py",
+		"/Users/doug/Desktop/Clojure/playoff_predictor.clj",
+		"/Users/doug/Desktop/ff_schedule.tsv",
+		"/Users/doug/Library/Application Support/Sublime Text 3/Packages/IJulia/Sublime-IJulia.sublime-settings",
+		"/Users/doug/Library/Application Support/Sublime Text 3/Packages/User/Sublime-IJulia.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":literal",
+			"by-regex",
+			"sandiemail",
+			"%)))",
+			"5px",
+			"0px",
+			"\n		",
+			" (",
+			"goog.require",
+			"goog.require(\"cljs-time\")",
+			"goog.require(\"cljs-core\")",
+			"goog.require(\"cljs-core",
+			"goog.require",
+			"cljs-time",
+			"time",
+			"Uri",
+			"<div class=\"main\"",
+			"internal",
+			"#<ObjectId ",
+			"beowulf",
+			"\" \"",
+			"\\\"",
+			"\" \"",
+			"html_poster",
+			"io",
+			"file_text",
+			"all-posts",
+			"read-blog-file",
+			"read-md-blog-file",
+			"read-file",
+			"all_posts",
+			"full_input",
+			"get-data",
+			"    ",
+			"init",
+			"render-query",
+			"\"",
+			"transi",
+			"é",
+			"rsi",
+			"\"",
+			" \"",
+			"lit.",
+			"\n",
+			"(lit. \n",
+			". ",
+			"\\(i\\.e\\.*\\)",
+			".",
+			"\\([0-9]*b?\\)",
+			"\n\n",
+			"\\([0-9]*\\)",
+			"\\([0-9]*b\\)",
+			"\\(.[0-9]b\\)",
+			"\\(.[0-9]\\)",
+			" \\(.*\\) ",
+			"\\(*.\\)",
+			"/(",
+			"/(.*",
+			"/(.*/)",
+			"\n\n",
+			"\"",
+			"<l>",
+			"\">",
+			"<pb n=",
+			"<head>",
+			"</div1>",
+			"match_to_obj",
+			",\"team\":\"",
+			"3)] (vector :.graph_obje",
+			":.graph_object",
+			"[\"#",
+			"\n\n(def ",
+			"@color-complement-",
+			"@color-secondary-",
+			"@color-primary-",
+			"\n\n",
+			"/* ",
+			"	",
+			"	:team team \n	:x1 (get %1 \"week\") \n	:y1 (get %1 \"odds\") \n	:x2 (get %2 \"week\") \n	:y2 (get %2 \"odds\")) weeks (rest weeks))))))\n",
+			"		:x1 #(get % \":x1\") \n		:y1 #(get % \":y1\") \n		:x2 #(get % \":x2\") \n		:y2 #(get % \":y2\")})))\n",
+			"		:x1 #(:x1 %) \n		:y1 #(:y1 %) \n		:x2 #(:x2 %) \n		:y2 #(:y2 %)})))\n",
+			"sort",
+			"str_test",
+			"\n",
+			"    ",
+			"  ",
+			"		",
+			"  ",
+			"  (:refer-clojure :exclude [sort find])\n  (:import org.mindrot.jbcrypt.BCrypt)\n  (:require (compojure handler route core response)\n",
+			"  ",
+			"log-page-view",
+			"log-pv",
+			"\" \"",
+			"	\"homepage\" \"page-view\"\n	\"fantasy-football\" \"page-view\"\n	\"microblog\" \"page-view\"\n	\"microblog_post\" \"page-view\"\n    \"microblog_post\" \"publish\")))\n    \"site_stats\" \"page-view\"\n",
+			":remote-addr",
+			"(do (log request",
+			"microblog_header",
+			"\n    ",
+			"\"request\"",
+			"margin-left:5px",
+			"\"]\n",
+			" ",
+			"  ",
+			"	",
+			"[:p \"\"]",
+			"\n",
+			"])",
+			"\"",
+			"] [\"",
+			"([\"",
+			"playoffs.core=> ;; game",
+			";; game ",
+			".",
+			"\"",
+			"] [",
+			"playoffs.core=>",
+			"0.",
+			"\"",
+			"] [",
+			"playoffs.core=> (odds_playoff_match ",
+			"loess_plot(beowulf_characters, \"red\")\nloess_plot(beowulf_words, \"blue\")\nloess_plot(beowulf_vowels, \"green\")\nloess_plot(beowulf_characters_per_word, \"orange\")\n",
+			"\n\n",
+			"	",
+			"    ",
+			"     ",
+			"    ",
+			"   "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clipboard_manager":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sofia.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
