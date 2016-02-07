@@ -10,7 +10,8 @@
         [ring.middleware.params :refer :all]
         ; [taoensso.carmine :as car :refer (wcar)]
         ; [sofia.password_admin :refer :all]
-        [cemerick.friend :as friend] (cemerick.friend [workflows :as workflows] [credentials :as creds])))
+        ; [cemerick.friend :as friend] (cemerick.friend [workflows :as workflows] [credentials :as creds]))
+    )
 
 ;; =================
 ;; FILE DESCRIPTION:
