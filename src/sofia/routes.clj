@@ -24,8 +24,8 @@
     ;; ==========
 
     (GET "/" [] "Hello, World")
-    (GET "/login" [] login-form)
-    (GET "/logout" request (friend/logout* (response/redirect (str (:context request) "/"))))
+    ; (GET "/login" [] login-form)
+    ; (GET "/logout" request (friend/logout* (response/redirect (str (:context request) "/"))))
     (compojure.route/resources "/")
     (compojure.route/not-found "Link not found."))
 
