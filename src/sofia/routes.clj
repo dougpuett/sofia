@@ -8,6 +8,7 @@
         [ring.adapter.jetty :only (run-jetty)]
         [ring.util.response :as response]
         [ring.middleware.params :refer :all]
+        [clojure.java.io :as io]
         ;; [taoensso.carmine :as car :refer (wcar)]
         ;; [sofia.password_admin :refer :all]
         ;; [cemerick.friend :as friend] (cemerick.friend [workflows :as workflows] [credentials :as creds]))
@@ -20,12 +21,16 @@
 
 ;; THIS FILE MAPS ROUTES TO FUNCTIONS. EACH ROUTE CALLS A FUNCTION THAT EITHER RETURNS HTML OR RAW DATA IN JSON FORM. IT ALSO CONTAINS A RING WRAPPER THAT TAKES CARE OF AUTHENTICATION BY CALLING A REDIS SERVER.
 
+
+
+(def all-data (slurp (io/file (io/resource data/temp-data.jsonl))))
+
 (defroutes router*
     ;; ==========
     ;; SITE INDEX
     ;; ==========
 
-    (GET "/" [] "Hello, World")
+    (GET "/" [] all-data)
     ; (GET "/login" [] login-form)
     ; (GET "/logout" request (friend/logout* (response/redirect (str (:context request) "/"))))
     (compojure.route/resources "/")
