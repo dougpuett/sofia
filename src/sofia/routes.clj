@@ -34,10 +34,19 @@
 
     ; (GET "/" [] (reduce str (map presentation all-data)))
     (GET "/" [] "<body>Welcome to dougpuett.com. This website doesn't do much right now, but may do more someday.</body>")
+    (GET "/tasks" "<body>Tasks go here</body>")
+    (GET "/bookmarks" "<body>Bookmarks go here</body>")
+    (GET "/concept_map" "<body>Concept map visualization goes here</body>")
+    (GET "/identity_map" "<body>Identity map visualziation goes here</body>")
     ; (GET "/login" [] login-form)
     ; (GET "/logout" request (friend/logout* (response/redirect (str (:context request) "/"))))
     (compojure.route/resources "/")
     (compojure.route/not-found "Link not found."))
+
+;; messaging: email
+;; administration: gdocs
+;; visualization: web (D3?)
+;; how to parse an email: type@.... , subject:name, text: parseable notes
 
 ;; ===============
 ;; AUTHENTICATION:
