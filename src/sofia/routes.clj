@@ -33,7 +33,7 @@
     ;; ==========
 
     ; (GET "/" [] (reduce str (map presentation all-data)))
-    (GET "/" [] "<body>Welcome to dougpuett.com. This website doesn't do much right now, but may do more someday. Take a look around, you won't find much.</body>Hey, you found a secret!")
+    (GET "/" [] "<body>Welcome to dougpuett.com. This website doesn't do much right now, but may do more someday.</body>")
     ; (GET "/login" [] login-form)
     ; (GET "/logout" request (friend/logout* (response/redirect (str (:context request) "/"))))
     (compojure.route/resources "/")
