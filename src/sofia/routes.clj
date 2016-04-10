@@ -32,7 +32,8 @@
     ;; SITE INDEX
     ;; ==========
 
-    (GET "/" [] (reduce str (map presentation all-data)))
+    ; (GET "/" [] (reduce str (map presentation all-data)))
+    (GET "/" [] "Welcome to dougpuett.com. This website doesn't do much right now."
     ; (GET "/login" [] login-form)
     ; (GET "/logout" request (friend/logout* (response/redirect (str (:context request) "/"))))
     (compojure.route/resources "/")
